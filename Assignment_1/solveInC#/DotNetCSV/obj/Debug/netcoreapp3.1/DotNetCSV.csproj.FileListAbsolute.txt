@@ -1,0 +1,11 @@
+E:\VsCodeProjects\HW\DotNetCSV\obj\Debug\netcoreapp3.1\DotNetCSV.csprojAssemblyReference.cache
+E:\VsCodeProjects\HW\DotNetCSV\obj\Debug\netcoreapp3.1\DotNetCSV.AssemblyInfoInputs.cache
+E:\VsCodeProjects\HW\DotNetCSV\obj\Debug\netcoreapp3.1\DotNetCSV.AssemblyInfo.cs
+E:\VsCodeProjects\HW\DotNetCSV\bin\Debug\netcoreapp3.1\DotNetCSV.exe
+E:\VsCodeProjects\HW\DotNetCSV\bin\Debug\netcoreapp3.1\DotNetCSV.deps.json
+E:\VsCodeProjects\HW\DotNetCSV\bin\Debug\netcoreapp3.1\DotNetCSV.runtimeconfig.json
+E:\VsCodeProjects\HW\DotNetCSV\bin\Debug\netcoreapp3.1\DotNetCSV.runtimeconfig.dev.json
+E:\VsCodeProjects\HW\DotNetCSV\bin\Debug\netcoreapp3.1\DotNetCSV.dll
+E:\VsCodeProjects\HW\DotNetCSV\bin\Debug\netcoreapp3.1\DotNetCSV.pdb
+E:\VsCodeProjects\HW\DotNetCSV\obj\Debug\netcoreapp3.1\DotNetCSV.dll
+E:\VsCodeProjects\HW\DotNetCSV\obj\Debug\netcoreapp3.1\DotNetCSV.pdb
