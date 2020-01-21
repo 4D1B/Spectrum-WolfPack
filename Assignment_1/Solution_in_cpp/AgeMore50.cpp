@@ -38,7 +38,7 @@ int main()
     while (getline(fptr, line))
     {
         dob = split(line, ',', 9); 
-        // we are doing tey catch bacause there are some invalid data in dob column.
+        // we are doing try catch bacause there are some invalid data in dob column.
         try
         {
             dyear = stoi(split(dob, '-', 0));
