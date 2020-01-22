@@ -45,7 +45,7 @@ int main()
         }
         catch(const std::exception& e)
         {
-            std::cerr << e.what() << " Invalid input" << '\n';
+            std::cerr << e.what() << " Invalid input " << dob <<'\n';
             continue;
         }
         
